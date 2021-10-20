@@ -11,3 +11,6 @@ String of words, sorted alphabetically...
 
 For e.g. 
 
+sort_string('string of words')
+
+'of string words'
